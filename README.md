@@ -1,4 +1,5 @@
-## Oie, eu sou Williane Felix 😄
+## Olá! Sou Williane Felix, 
+## Seja bem vindo ao meu perfil 😄
 
  <div>
   <a href="https://github.com/willyfelix">
