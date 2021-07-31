@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="willy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="willy-Java" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     
+    <img align="right" alt="willy-image" height="200" width="220"src= "https://share-cdn.picrew.me/shareImg/org/202107/94097_dLVbXX8P.png">
 </div>
  
  ##
