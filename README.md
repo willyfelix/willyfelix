@@ -2,7 +2,6 @@
 ## Seja bem vindo ao meu perfil 😄
 
  <div>
- <img src="https://komarev.com/ghpvc/?username=willyfelix&color=green" alt="willyfelix" />
  
 ##
   <a href="https://github.com/willyfelix">
