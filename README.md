@@ -2,7 +2,7 @@
 
 - ✨ Téc em Desenvolvimento de Sistemas; 
 - 🌱 Atualmente estudando na Recode Pro para me tornar Dev Full Stack;
-- 😊 E não que seja algo que precise saber, mas amo animes!
+- 😊 E não é algo que precise saber, mas amo animes!
  
  <div>
 
