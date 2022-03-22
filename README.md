@@ -1,7 +1,7 @@
 ## Olá! Sou Williane Felix 😄
 
 - ✨ Estudante, Tecnólogo em Sistemas para Internet; 
-- 🌱 Atualmente estudando também na Recode Pro para me tornar Dev Full Stack;
+- 🌱 Estagiando na Avanade como Dev Back-End;
 - 😊 E não é algo que precise saber, mas amo animes!
  
  
