@@ -1,7 +1,6 @@
 ## Olá! Sou Williane Felix 😄
 
 - ✨ Estudante, Tecnólogo em Sistemas para Internet; 
-- 🌱 Estagiando na Avanade como Dev Back-End;
 - 😊 E não é algo que precise saber, mas amo animes!
  
  
